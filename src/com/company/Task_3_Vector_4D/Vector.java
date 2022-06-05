@@ -1,4 +1,4 @@
-package com.company.Task_4_Vector_4D;
+package com.company.Task_3_Vector_4D;
 
 import static java.lang.Math.*;
 
